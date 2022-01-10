@@ -1,0 +1,28 @@
+baseURL = "http://nfuhs.github.io/"
+languageCode = "en-us"
+title = "nfuhs blog"
+
+theme = "etch"
+
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+ description = " Norbert Fuhs blog"
+ copyright = " Copyright © 2022 Norbert Fuhs"
+ highlight = true
+
+[menu]
+[[menu.main]]
+  identifier = "posts"
+  name = "posts"
+  title = "posts"
+  url = "/posts/"
+  weight = 10
+
+
+[permalinks]
+posts = "/:title/"
+
+

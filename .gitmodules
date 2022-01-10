@@ -1,0 +1,10 @@
+[submodule "nfuhs/themes/themes/etch"]
+	path = nfuhs/themes/themes/etch
+	url = https://github.com/LukasJoswiak/etch.git
+[submodule "nfuhs/themes/etch"]
+	path = nfuhs/themes/etch
+	url = https://github.com/LukasJoswiak/etch.git
+[submodule "nfuhs/public"]
+	path = nfuhs/public
+	url = https://github.com/nfuhs/nfuhs.github.io.git
+	branch = main
